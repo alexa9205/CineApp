@@ -25,7 +25,7 @@ REACT_APP_API_KEY = [TMDB API key]
 REACT_APP_BASE_URL = https://api.themoviedb.org/3
 ```
 ## How to install this project
-1. Clone the project using the command `git clone https://github.com/vtejaetaalexa9205/CineApp.git`
+1. Clone the project using the command `git clone https://github.com/alexa9205/CineApp.git`
 2. Move into the file directory you wish to run using `cd {folder_name}`.
 3. Use the following command `npm install` or `yarn` to install the dependencies.
 4. Now you can run `npm run dev` or `yarn dev` to run the app in the development mode. It can be viewed in browser at `http:localhost:3000`.
